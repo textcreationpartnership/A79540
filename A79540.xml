@@ -1,0 +1,708 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Christian and brotherly exhortation to peace: directed unto the soverain states of England, and the United Provinces of the Netherlands. And to the people of both nations. Translated out of the French copie, sent by a lover of peace from beyond sea.</title>
+            <author>Lover of peace from beyond sea.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79540</idno>
+            <idno type="STC">Wing C3938</idno>
+            <idno type="STC">Thomason E725_14</idno>
+            <idno type="STC">ESTC R206769</idno>
+            <idno type="EEBO-CITATION">99865875</idno>
+            <idno type="PROQUEST">99865875</idno>
+            <idno type="VID">118126</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79540)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118126)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 112:E725[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Christian and brotherly exhortation to peace: directed unto the soverain states of England, and the United Provinces of the Netherlands. And to the people of both nations. Translated out of the French copie, sent by a lover of peace from beyond sea.</title>
+                  <author>Lover of peace from beyond sea.</author>
+               </titleStmt>
+               <extent>[2], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Wodenothe in Leaden-hall-street.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from colophon.</note>
+                  <note>Annotation on Thomason copy: "Decemb: 30 1653".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Peace --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  Netherlands --  Early works to 1800.</term>
+               <term>Netherlands --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118126:1" rendition="simple:additions"/>
+            <p>A Chriſtian and Brotherly EXHORTATION TO PEACE: Directed unto
+the Soverain States of <hi>ENGLAND,</hi> and the United Provinces of the
+<hi>NETHERLANDS.</hi> And to the People of both <hi>NATIONS.</hi>
+            </p>
+            <p>
+               <hi>Tranſlated out of the French Copie, ſent by a Lover of
+Peace from beyond Sea.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Wodenothe</hi> in
+<hi>Leaden-hall</hi>-ſtreet.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:118126:2"/>
+            <head>To The Illuſtrious Sovereign States of <hi>ENGLAND,</hi> and
+the United Provinces of the <hi>NETHERLANDS.</hi> And to the People of both the
+ſaid <hi>NATIONS.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg> Could wiſh, my Lords, and beloved Brethren, that my tongue
+might be untied and looſed to as good a purpoſe for your Peace and
+Reconci<g ref="char:EOLhyphen"/>liation, as that in time paſt was of a dumb man for the ſaving of
+his Father.</p>
+            <p>Though I am not affected with the ſame naturall fright and
+amazement, as that was which did untie his tongue in an inſtant. Yet I dare
+aſſure you, that the affection, which I bear for your Peace and
+Reconciliation, is no leſſe, then that of a childe for the life 
+<pb n="2" facs="tcp:118126:3"/>of his Father. And this is that which doth obliege me to
+conjure you to conſider, whether thoſe differences of yours can be
+pleaſing unto him that hath freed you from the cap<g ref="char:EOLhyphen"/>tivity and Kingdome of
+death and darkneſſe, into which you were plunged, and hath gathered you
+unto his holy <hi>Je<g ref="char:EOLhyphen"/>ruſalem,</hi> received you into his Covenant, united you
+unto himſelf and his, with an everlaſting and indiſſoluble bond; or
+whether it be not contrary unto his will? Do you be<g ref="char:EOLhyphen"/>lieve that he hath gathered
+you together, and united you with thoſe whom he hath enlightened, and to whom
+he cauſed the light of the Goſpel to ſhine, that you ſhould u<g ref="char:EOLhyphen"/>nite your
+ſelves afterward with them that follow after the Beaſt, that have given up
+their Kingdome unto it, and are yet under the power of death and darkneſſe?
+If you be a<g ref="char:EOLhyphen"/>live, what communion can you have with the dead, and with thoſe
+that make war with the Spouſe, and with the truth of him that hath raiſed
+you by his Spirit of life? Can you believe, that he hath delivered you from the
+hand of the Babylonians, that you ſhould re-unite your ſelves again with
+them: Or that he made you go out of Babylon, that you ſhould make peace with
+thoſe that maintain the Crimes, and uphold the Dominion thereof? Are you not
+of thoſe, to whom the Lord hath ſaid, 
+<note place="margin">Apoc. 12.</note>
+               <hi>Go out from Babylon, my
+people?</hi> Are you not of thoſe that have received the Teſtimony of the
+Witneſſes, which their King hath ſlain, and whom the Lord hath raiſed
+to ſhew unto you his will? How can you then unite your ſelves, and make
+peace with thoſe that ac<g ref="char:EOLhyphen"/>cuſe them and make war againſt them? Remember
+you not the violence and cruelties they have exerciſed againſt you and
+yours in the preceding age, to bring you into ſubjecti<g ref="char:EOLhyphen"/>on and bondage? Have
+you forgotten the Army which they called the Invincible, which they had
+deſigned for your deſtruction? Are they not the very ſame, who ſeeing
+that they could not prevail againſt you by open force, and remembring that a
+ſhort truce of twelve years failed but a very little of having undone you,
+conceived that a deceitful <pb n="3" facs="tcp:118126:3"/>peace would make an end of you,
+and that according to the advice which ſometimes <hi>Balaam</hi> gave unto
+<hi>Balaak,</hi> of uni<g ref="char:EOLhyphen"/>ting himſelf with the children of <hi>Iſrael</hi>
+to divide them from God, and to provoke his anger and jealouſie againſt
+them, it would be a means to bring their deſign to paſſe. Do you believe
+that it is for your good, and not much rather for their own Intereſt, that
+they have ſued for a peace with you, which is ſo deceitfull? Are you
+ſtill ſo blinde, as not to ſee that they minde nothing elſe<g ref="char:punc">▪</g> but
+how they may divide you from your Brethren, and ancient Allies? Have they not
+been your enemies by hindering you to entertain more advantagious
+confederacies? And you may ſufficiently un<g ref="char:EOLhyphen"/>derſtand by the good offices
+which they perform unto you at this preſent, what their thoughts have been
+towards you, when they have ſought peace at your hands.</p>
+            <p>Oh if you could but have hearkened unto the advice which was given
+you concerning it, a little before you came to a concluſion; you would now be
+at peace with your Brethren, and would be perhaps far from thoſe
+trouble<g ref="char:EOLhyphen"/>ſome Neighbours, which do ſo often diſturbe you! How much blood
+and treaſure would you have ſpared! Your people which have been but
+languiſhing all this while in regard of the flouriſhing condition, they
+were in heretofore, would as yet poſſeſſe a glorious proſperity. And
+you alſo, Sirs, who do lend them your hands; do you not conſi<g ref="char:EOLhyphen"/>der the good
+offices, which they do unto thoſe, who per<g ref="char:EOLhyphen"/>adventure have moſt contributed
+to maintain them in a good part of their Eſtates which have been ſhaken? Do
+you not know that they are of thoſe, who do not think themſelves obliegd to
+keep faith unto you, and that they cannot ſuffer any of their ſubjects to
+make profeſſion of your Religion, without putting them to cruell deaths?
+Can you hope, that when they ſhall ſee their advantages and the occaſion
+of advancing their affairs, they will deal with you otherwiſe then they have
+dealt with your fathers, and at this preſent do deal with your brethren,
+notwith<g ref="char:EOLhyphen"/>ſtanding <pb n="4" facs="tcp:118126:4"/>all the benefit and advantages they have
+received from them? By what Policy can you be united unto thoſe, which do
+think you to be Gods enemies, and are perſwaded that he doth command them to
+make war againſt you, and would be content with the loſſe of Kingdomes
+and millions of men to have you all utterly rooted out with all thoſe of your
+Religion? How can you give aſſiſtance for the taking of Places, even the
+ſtrongeſt upon your Borders, and thus inſenſibly to weaken and to block
+up your ſelves? Do you not think that they may turn about and make peace with
+your Neighbours? Do you not know, that thouſands of Babylonians do moſt
+paſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ionately deſire it, and that
+alrea<g ref="char:EOLhyphen"/>dy many do endeavour on all ſides to bring them to a Re<g ref="char:EOLhyphen"/>union; to the
+end, that they may fall upon you, promiſing to themſelves nothing elſe
+then to divide the ſpoil, which they will get of you and of your brethren? Do
+you not perceive, that there be many diſcontented and intereſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed a<g ref="char:EOLhyphen"/>mongſt you, which do yet pant and
+long after Monarchie? Can you be ignorant, that the Intereſt of Kings doth
+ob<g ref="char:EOLhyphen"/>liege them to give them all poſſible aſſiſtance, and do you not
+call to minde the hatred which you have brought upon you and the jealouſies,
+which you give to all, and which have drawn upon you mighty enemies? You know
+but too well, that there be many of yours which do not yield unto your
+Government, but by power and conſtraint; that your Eccleſiaſtical,
+Politick, and Military States do conſiſt of ill-affected perſons, that
+are full of diſcontents and emu<g ref="char:EOLhyphen"/>lation, which do wait only but for an
+opportunity, that they may ſafely diſcover themſelves? Do you not
+remember both of you, that there be ſtill ſome Princes, that had the
+Supream Power over you which will never be forgotten by them? Remember
+therefore, that upon the leaſt diſgrace that may befall you, all thoſe
+enemies will ſtir up themſelves and joyn together againſt you, and then
+indeed if you are not united with thoſe which have followed the Lamb, and
+have not Chriſt on your ſide; you can expect nothing elſe 
+<pb n="5" facs="tcp:118126:4"/>but an utter deſolation: And there is no great need of any
+great Prophet or Politician to foretell you, that within a ve<g ref="char:EOLhyphen"/>ry little time,
+you will be embroiled with thoſe, with whom you now have made peace, and to
+whom you are united, unleſſe they will ſhortly feel the ſmart of the
+Thunderbolt of the Popiſh Excommunication, ſince they do abſolutely
+depend from the pleaſure of this pretended Holy Father? Do you not well know,
+that he hath no greater deſire in his heart then to undoe and deſtroy you,
+at what coſt ſoever; becauſe he doth not ſee any greater hinderance to
+the uni<g ref="char:EOLhyphen"/>verſall re-eſtabliſhing of his Hierarchicall Empire, then your
+faithfulneſſe to the Lamb? Remember, Sirs, and wel<g ref="char:EOLhyphen"/>beloved Brethren, that
+this falſe and mercenary Shepheard will promiſe all things unto thoſe
+that are perſwaded that God doth command them to deſtroy you, to
+diſpoſe them to aſſault you, thinking that he hath right to diſpoſe
+of your dominions, he will give it unto them, to obliege them there<g ref="char:EOLhyphen"/>unto, and
+offer unto them, as from God, all the abſolution they can wiſh for, having
+ſurprized you: He will promiſe to place them in the higheſt degree of
+heaven, to move them to conquer and to deſtroy you. Have you not Chronicles
+of the miſchiefs which theſe Hierarchiſts have done unto you in former
+times? Verily I cannot believe, if you ſhould but read them, that you would
+thus eaſily be reſolved to put your truſt in thoſe that depend upon
+him, and believe that God hath given them an Omnipotency both in Heaven and
+Earth, and hold their decrees to be divine and worſhip him.
+Nevertheleſſe, examine a little, whether you can do any thing that may
+delight and content this Prieſt and his Ad<g ref="char:EOLhyphen"/>herents more, then to raiſe a
+cruel war amongſt your ſelves, and to unite your ſelves to, and to put
+your truſt in his migh<g ref="char:EOLhyphen"/>tieſt and moſt confiding Son; and do you doubt but
+that all thoſe that do homage unto him are not filled with joy, to ſee your
+ſtrength, which they were afraid of, employed to cut the throats of one
+another. Oh if ye could but look into their hearts, you would eaſily
+diſcern their joy. Con<g ref="char:EOLhyphen"/>ſider <pb n="6" facs="tcp:118126:5"/>the advice, which the Lord
+doth give unto you, <hi>Eſa.</hi> 57. If you had taken notice of the great
+and marvellous things, which he hath done for you, whileſt you were uni<g ref="char:EOLhyphen"/>ted,
+and which have filled the earth with aſtoniſhment and admiration, even to
+remove the Scepter and Government from your enemies, to put it into your hands;
+you would not have been ſo ready and prompt to make peace with thoſe, which
+have not deſired it from you for any other end then to do you more hurt, and
+who do onely conſpire to bring you into ſubjection and to oppreſſe you:
+And you might alſo expect the ſame bleſſing upon your Armes, if they
+were united, as they have been formerly, for the ad<g ref="char:EOLhyphen"/>vancement of his Kingdome.
+But can you believe, that he who hath exalted you and followed you with his
+mercies and bleſſings, whileſt you fought for his Intereſt and glory,
+againſt the enemies of his Spouſe, ſeeing that now you have changed and
+turned his Armes againſt his own people, and againſt his holy
+<hi>Jeruſalem</hi> for thoſe vain things here below, and that you do not
+fight but for your own Intereſt, ho<g ref="char:EOLhyphen"/>nour, glory, and the Treaſures of the
+vvorld vvhich he hath given in portion to his enemies, will ſtill go forth
+vvith you? Do you believe, that the great Judge of the vvhole Earth vvill
+render himſelf partiall, and change his Covenants and Relations for your
+ſakes? Do you pretend either on one ſide or the other to ſubdue your
+brethren? at leaſt I vvould not entertain theſe thoughts, that you are
+poſſeſſed with a deſire to extirpate them: If the glory of the world,
+and the deſire to give law to other Nations ſhould cauſe you to refuſe
+peace vvith your brethren, the example of ſome Kingdomes, vvhich you have
+ſeen flouriſhing, not long ago, extending their conqueſts to all ſides,
+and looking up<g ref="char:EOLhyphen"/>on other Nations with contempt: The condition and the
+diviſions, vvherein you ſee them at this preſent, becauſe they
+refuſed an honourable and moſt advantageous peace, ſhould lead you
+thereunto. But one mans death, or the change of one Miniſter of State is
+ſufficient to alter the face of a whole <pb n="7" facs="tcp:118126:5"/>Empire. The God of
+peace loveth the peace-makers: and the righteous King of Kings, ſtirreth up
+his jealouſie as well againſt thoſe, who will be too abſolute and
+Lording over their Brethren, and to give them the Law, as againſt thoſe,
+who arrogate unto themſelves his rights, titles, and qualities. He delighteth
+to lift up the humble, and to caſt down oftentimes thoſe that are lifted up
+on high: And can you believe, that he hath put all thoſe great forces into
+your hands to bring his people into ſubjection: Remember Chri<g ref="char:EOLhyphen"/>ſtians, that
+they are none of yours, and that they belong as well unto him, as to your
+ſelves. You muſt not think that it is his ſpirit which makes you thus to
+degenerate from the nature of his children. Is it by the ſacrifice of his
+people, whereby you would pretend to appeaſe his wrath, and to e<g ref="char:EOLhyphen"/>ſtabliſh
+your Governments, by making war againſt him. I make no queſtion, but many
+amongſt you will reflect upon thoſe things, and condemn the heat and
+animoſity, which hath p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ecipitated
+you into theſe wars, which have already coſt you ſo much blood on both
+ſides.</p>
+            <p>But perhaps you will ſay, that it is too late to think now upon
+theſe things; that this fire is too much inflamed to quench it. Chriſtians;
+It is true, that it is too late, but ſeeing we cannot call back again what is
+paſt, we muſt think upon the future: There is but too much miſchief done
+already, but you ought to conſider, that it is but the begin<g ref="char:EOLhyphen"/>ning of
+lamentations and ſorrows. Let us think upon the evils and miſeries which
+may yet enſue, and wherewith we are threatened, and which we may prevent by
+our own hu<g ref="char:EOLhyphen"/>miliation before God, and by asking of him a ſpirit of peace with
+our Brethren, and not a ſpirit of Victory, except it be to overcome our own
+humours and paſſions. We muſt lay aſide our own Intereſts for the
+love of Chriſt, and put our ſelves into his hands. And you ſhall ſee,
+my dear Bre<g ref="char:EOLhyphen"/>thren, that you will receive ſo large a ſatisfaction therein,
+that it will raviſh your hearts with Joy and Conſolation.</p>
+            <p>Perhaps you will ask me the queſtion, Who I am? From 
+<pb n="8" facs="tcp:118126:6"/>whence I come? and who hath ſent me? and tell me, That you
+do not know me; and that I have nothing to meddle with your buſineſſe,
+That you are wiſe and cleer-ſighted enough to know what you have to do.
+Brethren, I tell you that by the grace of God, I am a Chriſtian, as you are,
+and have the ſame ſenſe of the purity of the Faith of the Go<g ref="char:EOLhyphen"/>ſpel, and
+that the ſhare which I have of the evil you ſuffer, and of the injury you
+do the cauſe of Chriſt, makes me to ſpeak in this manner, and to conjure
+you in his name to for<g ref="char:EOLhyphen"/>bear a little your paſſions. Nevertheleſſe you
+may exa<g ref="char:EOLhyphen"/>mine, whether that which I tell you is truth, and the things which I
+deſire are not conformable to the will which he hath revealed unto us: If you
+believe, that 
+<note place="margin">Rom. 12.</note>
+               <hi>We are all mem<g ref="char:EOLhyphen"/>bers one of
+another,</hi> as his Spirit doth aſſure us, you will finde that I have
+reaſon to complain of the wrong you do unto me: If the hand is hurt, the head
+may complain of it: and if the head ſuffereth, the heart may groane. 
+<note place="margin">1 Cor. 17.26,27.</note>
+               <hi>If one member
+ſuffereth, all the members ſuffer with it. Now ye are the body of Chriſt
+and members in particular.</hi> Wherefore if you believe, that all thoſe
+which boaſt to appertain unto Chriſt, ought to be affected with his
+cauſe; you will finde that I am bound in chriſtian Charity to advertize you
+of the wrong you do unto him by working miſchief one againſt another: And
+although I ſhould not onely be hated, but alſo perſecuted of my brethren;
+yet I would not hold my peace, becauſe Gods cauſe is concerned herein, and
+the rights of him, who hath given his life for a ranſome both for yon and me.
+If you ſeek his Kingdome, you may know, that the deſires I have, and the
+ſupplications I make in his name, do not pro<g ref="char:EOLhyphen"/>ceed from the ſpirit of
+darkneſſe, nor from the heart of an enemy.</p>
+            <p>Perhaps you will ſay, that you have good and excellent men
+enough, who have told you all theſe things before, and greater too, and in
+better language. Well then in Gods name, if it be ſo, then you are oblieged
+the more to heark<g ref="char:EOLhyphen"/>en unto them, and to make ſome reflexion upon the fervent 
+<pb n="9" facs="tcp:118126:6"/>deſires of ſo many good and honeſt people, that do
+ſeek to God for your peace and Re-union. And verily, if the ſpi<g ref="char:EOLhyphen"/>rits of
+Prophets have been ſubject unto the Prophets: you are oblieged much more to
+yield ſomething unto the pray<g ref="char:EOLhyphen"/>ers of your Brethren, that ſuffer and groan
+for your diviſi<g ref="char:EOLhyphen"/>ons. And if charity doth hold the principall place in your
+hearts, then are you bound to make them to rejoyce again, and to comfort them
+by your Re-union, which will lift up their hearts and voice to heaven in holy
+exaltations, and make them ſhed many thouſand tears of joy, and ſing
+praiſes unto God. Do you not know, that your Creator would have pardoned a
+great City full of abomination for ten righteous men onely, if they could have
+been found therein.</p>
+            <p>And if your Saviour commands you to forgive your bre<g ref="char:EOLhyphen"/>thren, not
+onely ſeven times, but ſeventy times ſeven times: Shall we that are
+taught in his School, and would fain be his Diſciples, exercize our revenge
+upon many millions of poor innocent Chriſtians, that ſuffer and groan for
+our diſ<g ref="char:EOLhyphen"/>ſentions? Do ye not know, Brethren, that the blood of the righteous
+is precious before God; and do you not fear, that that, wherewith you now
+colour the Seas, ſhall riſe up one day in judgement, together with the
+cries of ſo many Widowes and Orphans which you make, if you continue?
+Remember, my dear Brethren, that we ſhall ſhortly ſee him come in his
+glory with his holy Angels, and then be aſha<g ref="char:EOLhyphen"/>med and confounded to ſee his
+wounds open ſtill and his members murthered by the blowes we give him: How
+can ye hope or imagine, that, coming before him, covered with the blood of his
+children, he ſhould go forth to meet you to imbrace you, to ſet the Crown
+upon your heads, and to make you ſit down upon the throne with him, for
+theſe brave atchievments? Do you think he will receive your excuſes, and
+approve of theſe proceedings of yours againſt his people? Do you not
+underſtand what he ſaith to thoſe, that ſhall preſume to argue the
+caſe with him in the day <pb n="10" facs="tcp:118126:7"/>of Judgement, <hi>That
+whatſoever they have done to one of his little ones, they have done unto
+him.</hi> And can you ſay unto him, that it was his glory and the advancement
+of his Kingdome, you ſought with the blood of your Brethren? Do you think he
+will not know, that it was nothing elſe but your own ſelf<g ref="char:EOLhyphen"/>iſhneſſe
+and proper Intereſts ye have ſought at ſuch a rate? If he ſhould deal
+with you, as you deal with him in his members, could you well bear his
+Indignation? Remem<g ref="char:EOLhyphen"/>ber, dear brethren, how many a time you have offended this
+good and righteous King, and how many great wicked<g ref="char:EOLhyphen"/>neſſes he forgives you
+every day. Doth he not teach us to ask of him forgiveneſſe for our
+offences, <hi>even as we forgive them that have offended againſt us.</hi>
+Think upon the Impreca<g ref="char:EOLhyphen"/>tions which we draw upon our heads, if we be not minded
+to forgive one another the offences, which we imagine we have received. It may
+be if you would examine the firſt oc<g ref="char:EOLhyphen"/>caſions of the diſguſt and ill
+will, which you have conceived one againſt the other, with ſome ſparks of
+love; you would finde more of innocency and miſchance, then of ill will. You
+know well, Sirs, that in great conſultations, conſiſting of many
+ſeverall heads, the wiſeſt and beſt advice is not al<g ref="char:EOLhyphen"/>wayes the
+ſtrongeſt and, and that many times a man cannot bring to paſſe what a
+whole Nation deſires; it may be you did as well on the one as on the other
+ſide that, what you had never an intention to do, and perhaps could not do
+what you had a minde to do.</p>
+            <p>Oh if we could but hearken a little to, and practice that juſt
+Commandement which the Lord hath commanded us in the third Chapter of the
+firſt Epiſtle of his well-beloved Diſciple, Verſ. 11. <hi>For this is
+the meſſage that you heard from the beginning, that we ſhould love one
+another.</hi> Verſe 12. <hi>Not as</hi> Cain, <hi>who was was of the wicked
+one, and ſlew his brother.</hi> Verſe 14. <hi>We know that we have
+paſſed from death unto life, becauſe we love the brethren. He that loveth
+not his brother ahi<g ref="char:EOLhyphen"/>deth in death.</hi> Verſe 15. <hi>Whoſoever hateth his
+Brother, is a murderer, and ye know that no murderer hath eternall life abiding
+<pb n="11" facs="tcp:118126:7"/>in him.</hi> Verſe 16. <hi>Hereby perceive we the love of
+God, becauſe he laid down his life for us, and we ought to lay down our lives
+for the brethren.</hi> Verſe 23. <hi>And this is his Cemmandement, that we
+ſhould believe on the Name of his Son Jeſus Chriſt, and love one another,
+as he gave us Commandement.</hi> Chap. 4. Verſe 20. <hi>If a man ſay, I
+love God, and hateth his Brother, he is a liar. For he that loveth not his
+brother whom he hath ſeen, how can he love God whom he hath not ſeen.</hi>
+Verſe 21. <hi>And this Command<g ref="char:EOLhyphen"/>ment have we from him, that he who loveth God:
+Love his brother alſo.</hi>
+            </p>
+            <p>Hearken alſo to what his Apoſtle, animated by his holy Spirit,
+ſaith, in the 1 <hi>Corinth.</hi> Chap. 6. Verſe 5. <hi>I ſpeak it to
+your ſhame; Is it ſo, that there is not a wiſe man amongſt you? no not
+one that ſhall be able to judge between his brethren? But brother goeth to
+law with brother.</hi> Verſe 7. <hi>Now therefore there is utterly a fault
+amongſt you, becauſe ye go to law one with ano<g ref="char:EOLhyphen"/>ther: Why do yet not rather
+take wrong? Why do ye not rather ſuffer your ſelves to be defrauded.</hi>
+Verſe 8. <hi>Nay ye do wrong and defraud, and that your brethren,</hi>
+            </p>
+            <p>And again, hearken what he ſaith in the Epiſtle to the
+<hi>Romans,</hi> Chap. 12. Verſe 9, 10. <hi>Let Love be without
+diſſimu<g ref="char:EOLhyphen"/>lation: abhor that which is evil, cleave to that which is good, Be
+kindly affectionedone to another with brotherly love, prefer<g ref="char:EOLhyphen"/>ring one
+another.</hi>
+            </p>
+            <p>If that be not enough, Brethren, behold the fervent prayer which
+his Maſter himſelf maketh to his Father, and to our Father for your union,
+before he died, <hi>Joh.</hi> 17. Verſe 11. <hi>Holy Father, keep through
+thine own Name thoſe whom thou haſt given me, that they may be one as we
+are one.</hi> Verſe 22. <hi>I have given them the glory which thou haſt
+given me, that they may be one as we are one.</hi> Verſe 23. <hi>I am in
+them, and thou in me, that they may be made perfect in one, and that the world
+may know, that thou haſt ſent me, and haſt loved them as thou haſt
+loved me.</hi>
+            </p>
+            <p>Truly, if theſe words of Chriſt, the well-beloved Son 
+<pb n="12" facs="tcp:118126:8"/>of God, who hath purchaſed the Kingdome for you, and will
+give it unto you, cannot move you, nor induce you to love thoſe that are his,
+and to forgive one anothers treſpaſ<g ref="char:EOLhyphen"/>ſes, what may we hope from you in his
+Name? We can<g ref="char:EOLhyphen"/>not but think upon the reproaches, which he will make one day unto
+you, if ye do continue to defile your hands with the blood of his children: If
+you had eyes to ſee and ears to hear, you would underſtand very well, how
+much he is troubled at your quarreis: Oh ye that divide his people, are you not
+afraid, leſt he do deſtroy you, as ſuch as are ap<g ref="char:EOLhyphen"/>pointed for
+deſtruction, or leſt he ſwallow you up in the Sea, as he did
+<hi>Pharaoh,</hi> that purſued them? Do you think you can be united unto
+Chriſt, without being united unto his mem<g ref="char:EOLhyphen"/>bers which you perſecute? What
+availeth your zeal and devotion, your faſtings and prayers, with all the good
+Or<g ref="char:EOLhyphen"/>ders which you may eſtabliſh amongſt you, to live accord<g ref="char:EOLhyphen"/>ing to the
+Will of God, and to practiſe his holy Command<g ref="char:EOLhyphen"/>ments, if you cannot love your
+Brethren, and forgive one anothers offences, and if you perſiſt in your
+reſolutions to cut them off root and branch? How can ye hope or be<g ref="char:EOLhyphen"/>lieve,
+that he will accept of your ſacrifices, or ſuffer them to aſcend before
+his face? How long will you that the ſword ſhall devour: you that may in
+all humane appearance re<g ref="char:EOLhyphen"/>ſtore peace unto <hi>jeruſalem,</hi> will you
+continue to ſeek its de<g ref="char:EOLhyphen"/>ſolation? Can you hope to be partakers of thoſe
+bleſſings which the Lord promiſeth to them that pray for its peace,
+whileſt you do depopulate and waſte it? Do you not know that you are
+ſhortly to be united unto thoſe from whom you do ſeparate your ſelves
+at preſent with an everlaſting tie of love and concord, and that <hi>it
+hath been the good pleaſure of the Father to give you the Kingdome,</hi> both
+to you and to them, <hi>Luke</hi> 12.32. and that you ſhall be partakers of
+the ſame glory? How can you then ſeparate your ſelves from thoſe,
+whoſe members you are? Have you no. Communion of the ſpirit and of Love
+with the other members of Chriſt? <pb n="13" facs="tcp:118126:8"/>Have you no zeal for the
+glory of the heavnly Father? Have you no Charity to cheriſh and to comfort
+his Spouſe and his children that groan for your diviſions ſake? Shall the
+great King of peace have no children amongſt you, that dare open their
+mouths, and that will labour and endeavour to quench theſe flames and to
+allay thoſe ſtormes and paſſions, which do diſturb and hinder you
+from knowing your Brethren, and ſhewing your duties unto them? Muſt a poor
+dumb man ſtrive to ſpeak and to cry out from afar off, to warn you of the
+danger, which you throw your ſelves head long into, and to conjure you in the
+name of Jeſus Chriſt, to give a ſtop to your diſtractions, to make your
+complaints unto him, and to ſubmit your ſelves unto his Judgement, which
+cannot but be rather moſt juſt and advantagious for both, then to ſtay
+ſo long till he himſelf put his hand to the work, and make you feel the
+effects of his Indignation for your goings a<g ref="char:EOLhyphen"/>ſtray, and let you periſh in
+your hard-heartedneſſe, with them to whom you unite your ſelves and make
+peace. O that ye could but make ſome reflexion upon theſe words, which he
+hath pronounced with his ſacred lips, which you heard even now, and prevent
+one another with cordiall conde<g ref="char:EOLhyphen"/>ſcenſions, or at leaſt endeavour and try
+to beget a good un<g ref="char:EOLhyphen"/>derſtanding, and imbrace one another to pleaſe him;
+wherein we would be much more happy then if we had o<g ref="char:EOLhyphen"/>vercome our brethren! Do
+you not know, that he ſeeth you, and that he doth ſympathize with us in the
+evils we do one to another, and that he himſelf heareth the ſtroakes and
+blowes we inflict?</p>
+            <p>Oh that theſe words might as well ſound in your ears, as your
+ſhots of Cannons do ſound in his ears; and that you could have him as well
+as St. <hi>Paul,</hi>
+               <note place="margin">Acts 9.</note> going to
+<hi>Damoſous</hi> to perſecute him! how ſhould you be able to bear
+theſe ſharp reproaches without being moved thereat? <hi>What are you doing
+children, you that know me, are you reſolved to perſecute me and to
+crucifie me afreſh; are you not my people? do you not <pb n="14" facs="tcp:118126:9"/>belong unto me as well the one as the other? why do you ſtrive to
+ſpill my blood, and to make me ſuffer, ſeeing you are nothing elſe but
+one ſtick, one people, and one flock in my hand, to make uſe thereof for
+ſuch things as I ſhall employ<g ref="char:cmbAbbrStroke">̄</g> you in?</hi> I make no que<g ref="char:EOLhyphen"/>ſtiou but you
+would be ready to throw down your Armes, and moſt heartily imbrace one
+another. Certainly, if you had appeaſed a little theſe troubles and
+diſtractions, which do hinder you from hearing this ſweet voice, which your
+Brethren do hear, and ſigh for your deafneſſe, it would work more
+ſtrongly upon your hearts then your ears; Are you perſwaded, that if you
+ſhould have loſt all, and left all theſe momentany things and worldly
+honours to your ene<g ref="char:EOLhyphen"/>mies themſelves for his names ſake, that you ſhould
+have loſt any thing? Do you not think he is ſufficient and faith full
+enough to recompenſe and reſtore unto you a thouſand fold and at laſt
+life everlaſting? Why then do you refuſe to yield ſomewhat unto your
+Brethren and to his children for his own ſake, for the peace of his people
+ſake, for the honoru of his Names ſake, for the quiet of his Spouſe
+ſake, to comfort your Mother which you afflict and groaneth for your
+diſſentions; and for the Intereſt ſake you pretend unto his Inheritance
+in the glory and everlaſting life, which he hath prepared for you?</p>
+            <p>Let us turn aſide our eyes from theſe things, Chriſtians,
+and think on theſe honours, on theſe glories, and on theſe everlaſting
+riches, which do wait for us, and cannot fail us. What if we our ſelves be
+ſo earthly minded, that we cannot refrain our affections from theſe baſe
+and unworthy things, which we are to leave behinde us; Think you that the great
+King of Kings hath not Treaſury and honours enough in this World, to fill and
+enrich you therewith; hath he not Indies and hidden Treaſures, yea Kingdomes
+to give unto you, when he pleaſeth? Is it not upon theſe things, that you
+ſhould rather make your Aſſignations for your In<g ref="char:EOLhyphen"/>dempnities, then upon
+the blood and lives of his people? <pb n="15" facs="tcp:118126:9"/>Do you not know, that all
+the Kings and Princes of the Earth are to come to bend their knees before him,
+and that he promiſeth unto his people Empires and Kingdomes? Oh if we did but
+well ponder theſe things, we would not be ſo eager to cut one anothers
+throats, and to make ſo great a breach into the holy City for things of
+nought! perhaps you would not have gone half ſo far in the deſign, which it
+ſeems you have to deſtroy one another. When he ſhall o<g ref="char:EOLhyphen"/>pen your eyes, and
+make you know the wrong which you have done unto him; He will make you ſigh
+for it, and then perhaps you will preſent your ſelves before the breach,
+which you your ſelves have made againſt thoſe, which do lead you
+thereunto, and that wait for nothing elſe but to come to aſſault the holy
+City and your good Mother, after the beach is made. You that do juſtifie all
+your proceed<g ref="char:EOLhyphen"/>ings before men, and endeavour to perſwade them, that you have
+not acted any thing, but by the righteous and juſt motions of the Spirit of
+God: How do ye think that the true Chriſtians can be perſwaded of theſe
+things, when they ſee, that you will have no peace with thoſe, whom the
+Lord hath alſo enlightened with his knowledge, received into his Covenant,
+and amongſt whom he cauſeth alſo to ſhine the light of the Goſpel?
+Can you imagine, that thoſe who have ſuſpended their Judgements all this
+while, and would ſee firſt the carrying on of your proceedings before they
+would condemn you, when they ſee that you have no peace nor communion with
+the Saints, will entertain any favourable thoughts on your behalf? Do you not
+well know that there be but two ſorts of people in the world, and that
+thoſe which are not ſealed with the Seal of God, have ta<g ref="char:EOLhyphen"/>ken the mark of
+the Beaſt, and worſhip the Dragon? Faith doth aſſure you, that you are
+written in the Book of the Lamb, Charity alſo obliegeth you to believe the
+ſame of thoſe who have followed him, who have done like your ſelves, who
+are gone forth out of Babylon, to enter into <pb n="16" facs="tcp:118126:10"/>the
+ſpirituall <hi>Jeruſalem,</hi> who are members of the ſame bo<g ref="char:EOLhyphen"/>dy, who
+have the ſame Faith, the ſame Law, the ſame Rule with you, who follow the
+ſame truth, and who have been till hitherto your brethren, and vvith vvhom
+you have been enrolled under the ſame Standard, promiſing to ſtand for
+the ſame cauſe and the ſervice of the ſame King, who fol<g ref="char:EOLhyphen"/>lovv the Lamb,
+who have followed him even unto death, who maintain his rights againſt his
+enemies, who are quick<g ref="char:EOLhyphen"/>ened and cheriſhed with the ſame Spirit, who ſing
+and pub<g ref="char:EOLhyphen"/>liſh his praiſes, who love and adore him, and ſeek his King<g ref="char:EOLhyphen"/>dome,
+who are hated and perſecuted for the ſame cauſe as you are. Why then do
+ye not unite your ſelves to follovv your King, vvho comes to deliver you, and
+to give you the poſſeſſion of the Kingdome?</p>
+            <p>After all this, if we be reſolved not to recede at all from our
+Intereſts, and that we cannot compoſe our differences be<g ref="char:EOLhyphen"/>tween our
+ſelves, by the vvay of ſome friendly Mediations of our Brethren, as the
+Lord doth command us; at leaſt let us not decline ſuch a thing, vvhich the
+fierceſt enemies re<g ref="char:EOLhyphen"/>fuſe not in the heat of a Siege for leſſe weighty
+reaſons then theſe are, for vvhich vve do invite you in the name of Jeſus
+Chriſt to make a ceſſation of Armes; to the end, that your diſtractions
+may be appeaſed, though it vvere but for a fevv years, or for ſome moneths;
+during which, you vvill finde <hi>(well-beloved Brethren)</hi> that the great
+King of Peace vvill open your eyes, touch your hearts vvith ſweet
+affecti<g ref="char:EOLhyphen"/>ons, and reſtore unto you holy exaltations and rejoycings in the
+Lord.</p>
+            <p>Do you not ſee the confuſion vvhich begins to be ſpread over
+Babylon; and inſtead of making uſe of this for the ad<g ref="char:EOLhyphen"/>vancement of his
+Kingdome, it ſeemes you are a friend of the fall of that whore, and that you
+would fain delay it, and advance the deſolation of <hi>Jeruſalem,</hi> and
+fill the Holy City with troubles? Devoure you not anothers fleſh, and make
+your enemies believe that he alſo made you drunk with the <pb n="17" facs="tcp:118126:10"/>Wine of aſtoniſhment? Do you not hear the joyfull ſhout<g ref="char:EOLhyphen"/>ings,
+and the cries of Blaſphemies, which the Babylonians do already ſend forth?
+O that the world would but well conſider the things which the Lord is about
+to do, and whereunto he will employ us, for the execution whereof he hath put
+theſe mighty Armies into your hands, to employ them againſt his enemies,
+and to exerciſe his vengeance in his Judgements againſt thoſe who have
+ſlain his Witneſſes, deſtroyed his Saints, and made his Inheritance
+deſolate; and who condemn you to Hell, uſurp his Rights, and hinder the
+approach of his Kingdom, and who conſpire your Ex<g ref="char:EOLhyphen"/>tirpation and thraldome,
+Should you not give care to the Commandements which he layeth upon you, to
+exerciſe Vengeance, and to render unto them double for the miſ<g ref="char:EOLhyphen"/>chiefs they
+have done unto you? Do you not fear that he will one day call you to an account
+for that power he hath given you to be avenged of his enemies; inſtead
+whereof you were ſo blinde and wretched, as to lend them your hands and to
+diſ-unite your ſelves one from another to be united unto them? Certainly,
+if you will be united unto the well-wiſhers and Protectors of
+<hi>Babylon,</hi> you muſt needs expect theſe tvvo things to enſue;
+Either ſhe and her King vvill be Conquerours over the holy
+<hi>Jeruſalem,</hi> or ſhe vvill be o<g ref="char:EOLhyphen"/>vervvhelmed by the Judgements of God.
+If ſhe doth re<g ref="char:EOLhyphen"/>main victorious, behold you are reduced again to the
+ſpiri<g ref="char:EOLhyphen"/>tual Captivity, from whence you are gone forth. But if ſhe is
+ſubdued, you muſt fell the plagues, wherewith ſhe is threatened, and
+drink of her cup. How can you then be u<g ref="char:EOLhyphen"/>nited and make peace with thoſe, who
+do uphold her, who have given up to her their power, and who do learn her
+blaſphemies, and adhere unto them againſt your brethren? Let us hearken to
+the advice which the Lord herein gives us, touching the fall of this great
+Whore, and of the abolition of her King; 
+<note place="margin">Apoc. 18.19.</note> Let us then ſeparate our
+ſelves from theſe <hi>Babylonians,</hi> as the people of God from
+<hi>Corah</hi> and his com<g ref="char:EOLhyphen"/>panions, <pb n="18" facs="tcp:118126:11"/>left we periſh with
+them. We are come to the end of the war, and to the valley of
+<hi>Joſaphat,</hi> to the day of Deciſions: Do you not ſee the Beaſt
+with the falſe pro<g ref="char:EOLhyphen"/>phet gathered with the Kings of Satan againſt him, who
+rideth upon a white horſe, and againſt his Army, which are the Elect and
+faithfull to make war againſt them? 
+<note place="margin">Apoc. 17.</note> Do you not underſtand their
+plots and devices? Are you ignorant of their Reſolutions? Do you not know,
+that the moſt fer<g ref="char:EOLhyphen"/>vent deſires of their ſoul do onely tend to your
+deſtruction? 
+<note place="margin">Apoc. 19.</note> Speak your conſcience, think
+you that you can follow the Lamb, and make vvar againſt thoſe who follovv
+him; or can you be united vvith thoſe, vvho have given up their povver to the
+Beaſt, and are gathered unto the falſe pro<g ref="char:EOLhyphen"/>phet, vvithout ſeparating your
+ſelves from him, vvho rideth upon the vvhite horſe, leaving his party: Be
+not deceived, if you be found united and gathered vvith the Kings, vvho have
+given up their povver to the Beaſt againſt the Lamb and his Army, you can
+never avoid the danger, vvherein they are, of being rejected with the
+unbelievers and effemi<g ref="char:EOLhyphen"/>nate into utter darkneſſe. We muſt raiſe our
+Spirits, over<g ref="char:EOLhyphen"/>come our paſſions, and follow him, who calleth us to the
+victory againſt his enemies. Are you not of <hi>Iſrael</hi> and
+<hi>Ju<g ref="char:EOLhyphen"/>dah?</hi> Are you not of thoſe winnowers, who ſhall winnow
+<hi>Babylon?</hi> Are you not of thoſe whom the Lord commands to be ſet in
+battel array againſt her, and to fill her cup to the brim, which ſhe hath
+filled to you? Are you not of thoſe, whom he commandeth to rejoyce over her
+fall, and in whoſe behalfe he promiſeth to work a thouſand new
+miracles.</p>
+            <p>Think on theſe things <hi>(Brethren)</hi> and do not believe
+them to be deluſions: we are come unto the time of their Accom<g ref="char:EOLhyphen"/>pliſhment,
+and do you refuſe to ſerve the Lord in this Occa<g ref="char:EOLhyphen"/>ſion? Perhaps he will
+remove the Candleſtick elſwhere, and employ others, and it may be you will
+finde your ſelves en<g ref="char:EOLhyphen"/>ſnared with thoſe with whom you are united, and have
+made peace.</p>
+            <p>
+               <pb n="19" facs="tcp:118126:11"/>Let us lift up our eyes and hands on high,
+&amp; we ſhall ſee our deliverance, &amp; the Kingdom of our God to be at
+hand, &amp; the Kingdome of the Saints of the Sovereign, who filleth all the
+earth. He cometh with an armed hand and a ſtretched out arm, to make his
+enemies feel his vengeance: Let us not put afar off his judgements by our Union
+with them, He com<g ref="char:EOLhyphen"/>meth to begin his Kingdome of peace in the midſt of us, let
+us not put back the Eſtabliſhment of his Government, and the ſweet melody
+of his praiſes by our diſſentions. He com<g ref="char:EOLhyphen"/>meth to ſhew mercy and favour
+to the <hi>Jews</hi> and to the <hi>Gen<g ref="char:EOLhyphen"/>tiles,</hi> and to gather them again
+with the houſe of <hi>Iudah</hi> with<g ref="char:EOLhyphen"/>in his Sheep-fold. Let us not ſtop
+the courſe of his Boun<g ref="char:EOLhyphen"/>ties and Gratuities by our unthankfulneſſe and
+diviſions. He calleth us to the Victory, and to his Kingdome of Peace, there
+to crown our faithfulneſſe. Let us gather all our for<g ref="char:EOLhyphen"/>ces, and unite our
+ſelves with heart and affections, that we may not hinder his glory and our
+own. If we finde ſome difficulty to overcome our ſelves and our
+reſolutions, our humours and paſſions: Let us think upon the ſharp
+re<g ref="char:EOLhyphen"/>proaches which he will one day caſt upon all thoſe, who would not abate
+the leaſt thing of their Intereſts and of their Rights for his ſake. We
+are the children of the King of Kings, and the heires of the Kingdome. Let us
+live therefore like thoſe, who ſhall ſhortly poſſeſſe the Crown
+of honours and eternall riches. Let us yield one to another, yea to our
+enemies, thoſe things of nought, that we may lift up our hearts and
+affections to the glory and happines, which hath been promiſed us, and vvhich
+vve expect. Let us re<g ref="char:EOLhyphen"/>member, that the greater pains we have taken to overcome
+our ſelves, &amp; the greater difficulties we met therein, ſo much the more
+weighty and excellent will the reward be. Let us follow the example of him, who
+is come forth victorious out of the grave, with the weapons in his hand to
+finiſh the victory. He hath fought, he hath ſuffered, he hath been overcome
+by death to overcome death. He hath conquered and hath been victorious in
+glory.</p>
+            <p>
+               <pb n="20" facs="tcp:118126:12"/>He is now ſitting on the Throne with our
+Heavenly Father. If we can follow him, and overcome our ſelves, vve are
+aſſured to reign vvith him.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Richard Wode<g ref="char:EOLhyphen"/>nothe</hi> in
+<hi>Leaden-hall</hi>-ſtreet, 1653.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
